@@ -21,5 +21,5 @@ unzip main.zip
 
 # 5 - Copiar os arquivos para o diretório padrão do apache
 echo "Copiando os arquivos do diretório que foi descompactado para o caminho padrão do apache /var/www/html/ ..."
-cd linux-site-dio
+cd linux-site-dio-main
 cp -R * /var/www/html/
